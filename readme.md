@@ -2,9 +2,9 @@
 
 ## Contact Details
 
-[![Email](assets\gmail.png)](mailto:rajsurase3@gmail.com) [Email](mailto:rajsurase3@gmail.com)
-[![X](assets\twitter.png)](https://twitter.com/Raj-Surase) [X](https://twitter.com/Raj-Surase)
-[![LinkedIn](assets\linkedin.png)]([https://www.linkedin.com/in/raj-surase/]) [LinkedIn](https://www.linkedin.com/in/raj-surase/)
+[<img src="assets/gmail.png" alt="Email" width="36" height="36">](mailto:your-email@example.com)
+[<img src="assets/twitter.png" alt="Twitter" width="36" height="36" style="margin-right: 10px;">](https://twitter.com/Raj-Surase)
+[<img src="assets/linkedin.png" alt="LinkedIn" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
 [![Portfolio](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://your-portfolio-link.com) [Portfolio](https://your-portfolio-link.com)
 
 ## 1. Introduction
@@ -33,17 +33,22 @@ CrptoTrade is a Cryptocurrency Trading Platform that leverages the CoinGecko API
 
 ## 4. Screenshots
 
-![Screenshot 1](https://your-screenshot-link1.com)
-![Screenshot 2](https://your-screenshot-link2.com)
+<img src="assets/homescreen.png" alt="Home Page" width="276" height="579">
+<img src="assets/chartsscreen.png" alt="Chart Screen" width="276" height="579">
+<img src="assets/sendcrypto.png" alt="Send Screen" width="276" height="579">
+<img src="assets/scannerscreen.png" alt="Scanner Screen" width="276" height="579">
+<img src="assets/qrscreen.png" alt="QR Screen" width="276" height="579">
+
 
 ## 5. Steps to Install
 
 ```bash
 1. Clone the repository:
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/CryptoTrade.git
 
 2. Navigate to the project directory:
-   cd your-repo
+   cd CryptoTrade
+   cd cryptotrade
 
 3. Install dependencies:
    flutter pub get
