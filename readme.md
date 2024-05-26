@@ -5,7 +5,7 @@
 [<img src="assets/gmail.png" alt="Email" width="36" height="36">](mailto:your-email@example.com)
 [<img src="assets/twitter.png" alt="Twitter" width="36" height="36" style="margin-right: 10px;">](https://twitter.com/Raj-Surase)
 [<img src="assets/linkedin.png" alt="LinkedIn" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
-[![Portfolio](https://img.icons8.com/ios-filled/50/000000/domain.png)](https://your-portfolio-link.com) [Portfolio](https://your-portfolio-link.com)
+[<img src="assets/portfolio.png" alt="Portfolio" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
 
 ## 1. Introduction
 
@@ -29,7 +29,7 @@ CrptoTrade is a Cryptocurrency Trading Platform that leverages the CoinGecko API
 
 ## 3. Apk File
 
-[Download APK](https://your-apk-file-link.com)
+[Download APK](https://drive.google.com/file/d/1-oPxFRBkOaSoOLu87e-69AP9Jmr5sXQi/view?usp=sharing)
 
 ## 4. Screenshots
 
