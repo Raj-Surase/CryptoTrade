@@ -2,7 +2,7 @@
 
 ## Contact Details
 
-[<img src="assets/gmail.png" alt="Email" width="36" height="36">](mailto:your-email@example.com)
+[<img src="assets/gmail.png" alt="Email" width="36" height="36">](mailto:rajsurase3@gmail.com)
 [<img src="assets/twitter.png" alt="Twitter" width="36" height="36" style="margin-right: 10px;">](https://twitter.com/Raj-Surase)
 [<img src="assets/linkedin.png" alt="LinkedIn" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
 [<img src="assets/portfolio.png" alt="Portfolio" width="36" height="36" style="margin-right: 10px;">]([https://www.linkedin.com/in/raj-surase/])
